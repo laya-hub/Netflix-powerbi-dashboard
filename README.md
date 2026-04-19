@@ -50,7 +50,7 @@ The objective of this project is to explore how Netflix content has evolved over
 
 🏆 Top Performing Titles
 
-Using the custom “Rating Votes” metric:
+      - Using the custom “Rating Votes” metric:
       - Inception leads with ~20M rating votes
       - Forrest Gump follows with ~18M
       - Breaking Bad ranks third (~16M)
