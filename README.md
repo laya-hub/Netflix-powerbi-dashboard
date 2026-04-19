@@ -103,8 +103,8 @@ Using the custom “Rating Votes” metric:
 ---
 
 ## 📸 Dashboard Preview
-
-
+        
+        "NETFLIX DASHBOARD.png" - Power BI project Dashboard
 
 
 
